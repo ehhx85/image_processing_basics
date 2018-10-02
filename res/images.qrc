@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="astronaut.jpg">images/astronaut/astronaut.jpg</file>
+        <file alias="chart_blue.bmp">images/chart/chart_blue.bmp</file>
+        <file alias="chart_color.bmp">images/chart/chart_color.bmp</file>
+        <file alias="chart_gray.bmp">images/chart/chart_gray.bmp</file>
+        <file alias="chart_green.bmp">images/chart/chart_green.bmp</file>
+        <file alias="chart_red.bmp">images/chart/chart_red.bmp</file>
+        <file alias="Lenna.png">images/lenna/Lenna.png</file>
+        <file alias="Lenna_old.jpeg">images/lenna/Lenna_old.jpeg</file>
+        <file alias="rectangle.bmp">images/rectangle/rectangle.bmp</file>
+        <file alias="rectangle.png">images/rectangle/rectangle.png</file>
+        <file alias="rectangle.tif">images/rectangle/rectangle.tif</file>
+        <file alias="rectangle51.png">images/rectangle/rectangle51_limited.png</file>
+        <file alias="strawberries.bmp">images/strawberries/strawberries.bmp</file>
+        <file alias="strawberries.jpg">images/strawberries/strawberries.jpg</file>
+        <file alias="strawberries.png">images/strawberries/strawberries.png</file>
+        <file alias="test_pattern.png">images/test_pattern/test_pattern.png</file>
+        <file alias="test_pattern.tif">images/test_pattern/test_pattern.tif</file>
+        <file alias="woman.bmp">images/woman/woman.bmp</file>
+        <file alias="woman.png">images/woman/woman.png</file>
+        <file alias="woman.tif">images/woman/woman.tif</file>
+        <file alias="octopus.jpg">images/other/octopus.jpg</file>
+        <file alias="pollen.jpg">images/other/pollen.jpg</file>
+        <file alias="rose.jpg">images/other/rose.jpg</file>
+        <file alias="elephants.jpg">images/other/elephants.jpg</file>
+        <file alias="snails.jpg">images/other/snails.jpg</file>
+        <file alias="apple.jpg">images/other/apple.jpg</file>
+        <file alias="field.jpg">images/other/field.jpg</file>
+        <file alias="fountain.jpg">images/other/fountain.jpg</file>
+        <file alias="lady.jpg">images/other/lady.jpg</file>
+    </qresource>
+</RCC>
